@@ -14,4 +14,5 @@ Components to this application:
 
 https://github.com/lm-sys/FastChat#vicuna-weights
 
+https://github.com/lm-sys/FastChat/blob/main/fastchat/serve/inference.py
 
