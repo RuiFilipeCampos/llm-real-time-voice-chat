@@ -11,3 +11,7 @@ Components to this application:
 - clever prompt engineering: the LLM will need to be smart enough to understand that it is participating in a real time conversation
 
 
+
+https://github.com/lm-sys/FastChat#vicuna-weights
+
+
