@@ -16,3 +16,4 @@ https://github.com/lm-sys/FastChat#vicuna-weights
 
 https://github.com/lm-sys/FastChat/blob/main/fastchat/serve/inference.py
 
+https://tatsu-lab.github.io/alpaca_eval/
